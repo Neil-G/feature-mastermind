@@ -1,0 +1,14 @@
+{
+  "name": "featureschemamigrations",
+  "version": "1.0.0",
+  "description": "manage features for React frontend projects like db's manage schemas through migrations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neil-g",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
