@@ -4,7 +4,8 @@
   "description": "manage features for React frontend projects like db's manage schemas through migrations ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scaffoldSchema": "node generateFeatureScaffold.js"
   },
   "author": "neil-g",
   "license": "ISC",
